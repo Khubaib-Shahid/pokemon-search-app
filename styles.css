@@ -1,0 +1,136 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+.container-xxxl {
+    background-color: white;
+    height: 100svh;
+}
+
+.navbar {
+    width: 100% !important;
+    /* padding-right: 600px !important; */
+    padding-left: 20px;
+    background-color: white !important;
+    height: 100px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#types {
+    display: flex;
+    gap: 5px;
+    /* font-weight: normal !important; */
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-div {
+    width: 20rem;
+    height: 12rem;
+}
+
+.badge {
+    font-size: 0.8em;
+    font-weight: normal ;
+    letter-spacing: 1px;
+}
+
+.flying {
+    background-color: lightblue;
+    color: rgb(61, 61, 61);
+}
+
+.fire {
+    background-color: rgb(255, 72, 0);
+    color: white;
+}
+
+.electric {
+    background-color: yellow;
+    color: rgb(61, 61, 61);
+}
+
+.dragon {
+    background-color: orange;
+    color: rgb(61, 61, 61);
+}
+
+.fighting {
+    background-color: red;
+    color: white;
+}
+
+.ghost {
+    background-color: rgba(182, 90, 182, 0.784);
+    color: white;
+}
+
+.poison {
+    background-color: rgb(180, 106, 180);
+    color: white;
+}
+
+.water {
+    background-color: rgb(14, 124, 188);
+    color: white;
+}
+
+.fairy {
+    background-color: rgb(245, 133, 152);
+    color: white;
+}
+
+.bug {
+    background-color: green;
+    color: white;
+}
+
+.grass {
+    background-color: greenyellow;
+    color: rgb(61, 61, 61);
+}
+
+.psychic {
+    background-color: rgb(204, 173, 233);
+    color: rgb(61, 61, 61);
+}
+
+.normal {
+    background-color: rgba(204, 183, 124, 0.866);
+    color: rgb(61, 61, 61);
+}
+
+.dark {
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+.ground {
+    background-color: burlywood;
+    color: rgb(61, 61, 61);
+}
+
+.steel {
+    background-color: slategray;
+    color: white;
+}
+
+.ice {
+    background-color: aqua;
+    color: rgb(61, 61, 61);
+}
+
+.rock {
+    background-color: rgb(156, 127, 111);
+    color: white;
+}
